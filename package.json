@@ -1,0 +1,12 @@
+{
+  "name": "shopee-cart-simulator",
+  "version": "1.0.0",
+  "description": "Simulador de carrinho de compras inspirado na Shopee executado no terminal com Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["nodejs", "cli", "cart", "ecommerce"],
+  "author": "",
+  "license": "ISC"
+}
